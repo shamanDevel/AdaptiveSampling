@@ -1,0 +1,12 @@
+[submodule "third-party/cuMat"]
+	path = third-party/cuMat
+	url = https://gitlab.com/shaman42/cuMat.git
+[submodule "third-party/lodepng"]
+	path = third-party/lodepng
+	url = https://github.com/lvandeve/lodepng.git
+[submodule "third-party/thread-pool"]
+	path = third-party/thread-pool
+	url = https://github.com/mtrebi/thread-pool.git
+[submodule "third-party/portable-file-dialogs"]
+	path = third-party/portable-file-dialogs
+	url = https://github.com/samhocevar/portable-file-dialogs.git

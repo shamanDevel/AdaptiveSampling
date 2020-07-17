@@ -1,0 +1,7 @@
+1-Create histograms using utils/histogram_generator.py
+	Example: python histogram_generator.py --input_dir="<directory of .cvol volumes>" --output_dir="<histogram directory>" --density_minmax_file="<path to volumes>\training-volumes-intervals.json"
+
+2-Create TFs using utils/tf_generator_v2.py
+	Example: python tf_generator_v2.py --input_dir="<path to colormap .xml files> --histogram_dir=<histogram directory> --output_dir=<output directory for .tf files> --numof_tfs_per_volume=20 --min_num_peaks=3 --max_num_peaks=5
+
+3-Generate images. "mainGroundTruthDatasetGenerator.py" chooses TFs based on volume it is working on. So, each volume has a different TFs directory.

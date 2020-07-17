@@ -1,0 +1,78 @@
+{
+  "cleveland50.cvol": {
+    "min": "0.015",
+    "max": "0.025"
+  },
+  "cleveland70.cvol": {
+    "min": "0.015",
+    "max": "0.025"
+  },
+  "ppmt145_256.cvol": {
+    "min": "0.2",
+    "max": "0.8"
+  },
+  "ppmt145_512.cvol": {
+    "min": "0.2",
+    "max": "0.8"
+  },
+  "ppmt145_1024.cvol": {
+    "min": "0.2",
+    "max": "0.8"
+  },
+  "ppmt273_256.cvol": {
+    "min": "0.2",
+    "max": "0.8"
+  },
+  "ppmt273_512.cvol": {
+    "min": "0.2",
+    "max": "0.8"
+  },
+  "ppmt273_1024.cvol": {
+    "min": "0.2",
+    "max": "0.8"
+  },
+  "snapshot_010_256.cvol": {
+    "min": "0.2",
+    "max": "0.55"
+  },
+  "snapshot_020_256.cvol": {
+    "min": "0.2",
+    "max": "0.55"
+  },
+  "snapshot_030_256.cvol": {
+    "min": "0.3",
+    "max": "0.5"
+  },
+  "snapshot_040_256.cvol": {
+    "min": "0.35",
+    "max": "0.5"
+  },
+  "snapshot_050_256.cvol": {
+    "min": "0.35",
+    "max": "0.45"
+  },
+  "snapshot_060_256.cvol": {
+    "min": "0.35",
+    "max": "0.45"
+  },
+  "snapshot_070_256.cvol": {
+    "min": "0.3",
+    "max": "0.42"
+  },
+  "snapshot_080_256.cvol": {
+    "min": "0.3",
+    "max": "0.42"
+  },
+  "snapshot_090_256.cvol": {
+    "min": "0.3",
+    "max": "0.42"
+  },
+  "snapshot_272_512_ushort.cvol": {
+    "min": "0.4",
+    "max": "0.55"
+  },
+  "vmhead256cubed.cvol": {
+    "min": "0.2",
+    "max": "0.4"
+  }
+}

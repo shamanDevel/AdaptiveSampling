@@ -1,0 +1,16 @@
+bin/
+build/
+/python-train/Training.pyproj
+*.pyc
+.ipynb_checkpoints/
+
+# LaTeX
+*-eps-converted-to.pdf
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex
+/paper-vis20/main.pdf
+*.tps
