@@ -7,6 +7,8 @@ Currently supported:
  - adaptive sampling with an importance map in screen space
  - adaptive sampling in object space by changing the step size
 
+Demonstration: https://sites.google.com/view/sebastian-weiss/research/adaptive-sampling
+
 ## Project structure:
  - renderer: a shared library exposing PyTorch operation that contains the rendering core (C++, CUDA)
  - network: super-resolution network training and testing code (Python, PyTorch)
